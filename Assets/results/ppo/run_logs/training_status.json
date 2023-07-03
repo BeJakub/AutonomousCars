@@ -1,0 +1,29 @@
+{
+    "Cityblock2": {
+        "checkpoints": [
+            {
+                "steps": 302887,
+                "file_path": "results\\ppo\\Cityblock2\\Cityblock2-302887.onnx",
+                "reward": 75.58543612740256,
+                "creation_time": 1685547031.6836882,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Cityblock2\\Cityblock2-302887.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 302887,
+            "file_path": "results\\ppo\\Cityblock2.onnx",
+            "reward": 75.58543612740256,
+            "creation_time": 1685547031.6836882,
+            "auxillary_file_paths": [
+                "results\\ppo\\Cityblock2\\Cityblock2-302887.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.1+cu118"
+    }
+}
